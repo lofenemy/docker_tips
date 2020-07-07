@@ -8,5 +8,6 @@ docker container
   ls - show containers which are running (ls -a - show all containers)
   
   -d - clarify what image will be used.
+  -e - set enviroment variables
   
 Each container has uniq name, we can specify it, by default docker creates it 
